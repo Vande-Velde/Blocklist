@@ -9,6 +9,7 @@
 ||https://analyticsengine.s3.amazonaws.com^
 ||https://amazonclix.com^
 ||https://ads.pinterest.com^
+||https://stats.wp.com^
 !
 !
 !
